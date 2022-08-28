@@ -2,7 +2,7 @@ package ver2;
 
 public class Account {
 	//instance variable
-	private double balance;
+	private double balance; //New Comment for balance
 	private String name;
 	
 	//constructor
